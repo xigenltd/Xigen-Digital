@@ -1,0 +1,15 @@
+/*
+ Theme Name:   Twenty Nineteen Child
+ Theme URI:    https://xigen.co.uk
+ Description:  A child theme of Twenty Nineteen WordPress theme.
+ Author:       Xigen Ltd
+ Author URI:   https://xigen.co.uk
+ Template:     twentynineteen
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+body {
+  background-color: #ffffff;
+}
